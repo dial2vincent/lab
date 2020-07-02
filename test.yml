@@ -1,0 +1,6 @@
+# Ansible localhost testing 
+# Command: ansible-playbook test.yml --syntax-check
+---
+   - hosts: localhost
+     tasks:
+     - debug: msg="Ansible is working!"
