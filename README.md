@@ -1,21 +1,22 @@
 # lab
+
 ## Utility Server
 
-Requirement Tools: Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
+Requirement Tools: 
+- Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 
 Package installed:
 
-Location:
+Location: myvm
 
 ## WSL
 
-Requirement Tools: Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
-
-IMPROVEMENTS:
+Requirement Tools: 
+- Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 
 ## Hosts
 
-- Ansible Node: node1, node2
+- Ansible Host Nodes: node1, node2
 - Kubernetes Work Nodes: k8s-node1, k8s-node2
 - Web Server: myweb
   - Requirement Tools: Tomcat server,
