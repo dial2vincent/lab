@@ -1,24 +1,26 @@
+
+| Repo | Description | Date |
+| ----------- | ----------- | ----------- |
+| | ![image](image.jpg) | today |
+| | [More read](https://www.example.com) | yesterday |
+|  |  | now |
+--- 
 # lab
-| Syntax | Description |
-| ----------- | ----------- |
-![image](image.jpg)
-[More read](https://www.example.com)
-
+> Summary
 ## Utility Server
-
-I need to highlight these ==important word here==.
-Requirement Tools: 
+### Requirement Tools: 
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 
-Dependencies packages need to be installed:
+==Dependencies packages== need to be installed:
 
-Footnote: myvm [^1]
+Master node: myvm [^1]
+Managed node: myweb [^2]
 
 [^1]: Location: myvm
+[^2]: Location: myweb
 
 ## WSL
-
-Requirement Tools: 
+### Requirement Tools: 
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 - [x] Package Installed: Ansible, Code, Docker, Packer, Shell, Terraform
 - [ ] Need to Installed: 
