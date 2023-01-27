@@ -20,7 +20,7 @@ Managed node: myweb [^2]
 [^2]: Location: myweb
 
 ## WSL
-![Tools on WSL](/images/wsl.png)
+![Tools on WSL](wsl.png)
 ### Requirement Tools: 
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 - [x] Package Installed: Ansible, Code, Docker, Packer, Shell, Terraform
