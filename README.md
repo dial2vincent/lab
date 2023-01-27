@@ -1,9 +1,8 @@
 
-| Repo | Description | Date |
+| Repo | Description | Updated Date |
 | ----------- | ----------- | ----------- |
-| | ![image](image.jpg) | today |
-| | [More read](https://www.example.com) | yesterday |
-|  |  | now |
+| blog | [More read](https://dial2vincent.github.io/) | 2023 |
+| lab | More read](https://github.com/dial2vincent/lab) | Today |
 --- 
 # cloud lab
 > Summary
