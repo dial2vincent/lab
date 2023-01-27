@@ -33,4 +33,5 @@ Managed node: myweb [^2]
 - Web Server: myweb
   - Requirement Tools: Tomcat server,
   
-
+## Github Repo Size
+- opening your Account Settings → Repositories (https://github.com/settings/repositories), and the repository size is displayed next to its designation.
