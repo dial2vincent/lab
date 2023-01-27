@@ -2,7 +2,7 @@
 | Repo | Description | Updated Date |
 | ----------- | ----------- | ----------- |
 | blog | [More read](https://dial2vincent.github.io/) | 2023 |
-| lab | More read](https://github.com/dial2vincent/lab) | Today |
+| lab | Markdown Samples [More read](https://github.com/dial2vincent/lab) | Today |
 --- 
 # cloud lab
 > Summary
