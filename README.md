@@ -5,7 +5,7 @@
 | | [More read](https://www.example.com) | yesterday |
 |  |  | now |
 --- 
-# lab
+# cloud lab
 > Summary
 ## Utility Server
 ### Requirement Tools: 
@@ -20,6 +20,7 @@ Managed node: myweb [^2]
 [^2]: Location: myweb
 
 ## WSL
+![Tools on WSL](/images/wsl.png)
 ### Requirement Tools: 
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 - [x] Package Installed: Ansible, Code, Docker, Packer, Shell, Terraform
