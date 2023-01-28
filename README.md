@@ -15,10 +15,10 @@
 - Guest operating systems: RHEL, CentOS Streams, Oracle Linux, Ubuntu, Windows server
 
 ## WSL on Windows
+The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
 - How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
-### Requirement Tools: 
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
-- [x] Package Installed: Ansible, Code, Docker, Packer, Shell, Terraform
+- [x] Package Installed on WSL: Ansible, Code, Docker, Packer, Shell, Terraform
 - [ ] Need to Installed: 
 - [ ] Update the README.md
 
