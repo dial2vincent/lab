@@ -14,34 +14,42 @@
 - Virtual Machines: AWS, Hyper-V, VirtualBox
 - Guest operating systems: RHEL, CentOS Streams, Oracle Linux, Ubuntu, Windows server
 
-## WSL on Windows
+## Laptop
+### WSL Windows
 The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
 - How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
-- [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Shell, Terraform
+- [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Terraform
 - [x] Package Installed on WSL: Python, Python3, Maven, Shell, Bash
-- [x] Application Installed on Windows: Vagrant, Virtualbox, 
+- [x] Application Installed on Windows: Vagrant, Virtualbox 
 - [ ] Need to Installed: Java, JDK, Jenkins, Kubernetes
 
 ## Virtual Machines 
-### Utility Server 
-### Requirement Tools: 
+### AWS Utility Server Requirement Tools: 
+
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 - [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Shell, Terraform
 - [x] Package Installed on WSL: Python, Python3, Maven, Shell, Bash
 - [x] Application Installed on Windows: Vagrant, Virtualbox, 
 - [ ] Need to Installed: Java, JDK, Jenkins, Kubernetes
-## Hosts and Guest Operating Systems
-Master node: myvm [^1]
-Managed node: myweb [^2]
 
-[^1]: Location: aws
+### Hyper-V
+- Kubernetes Control Node: K8s, Work Nodes: k8s-node1, k8s-node2 [^1]
+- Ansible control node: utility, managed node: node1, node2 [^2]
+### VirtualBox
+- something here [^3]
+## Hosts and Guest Operating Systems
+Master node: myvm 
+Managed node: myweb 
+
+[^1]: Location: hyper-v
 [^2]: Location: aws
+[^3]: Location: aws
 
 ## Hosts and Guest Operating Systems
 ~~The node2 host is flat.~~
 - Ansible Host Nodes: node1, node2
-- Kubernetes Work Nodes: k8s-node1, k8s-node2
+
 - Web Server: myweb
   - Requirement Tools: Tomcat server,
   
