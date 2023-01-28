@@ -12,7 +12,7 @@
 ## Build your lab environment 
 - Host Operating System: Linux, Windows, Mac
 - Virtual Machines: AWS, Hyper-V, VirtualBox
-- Guest operating systems: CentOS Streams, Oracle Linux, Ubuntu, Windows server
+- Guest operating systems: RHEL, CentOS Streams, Oracle Linux, Ubuntu, Windows server
 
 ## WSL on Windows
 - How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
@@ -40,5 +40,5 @@ Managed node: myweb [^2]
 - Web Server: myweb
   - Requirement Tools: Tomcat server,
   
-## Github Repo Size
-- opening your Account Settings → Repositories (https://github.com/settings/repositories), and the repository size is displayed next to its designation.
+## How to find your Github Repo Size
+- Opening your Account Settings → Repositories (https://github.com/settings/repositories), and the repository size is displayed next to its designation.
