@@ -10,14 +10,22 @@
 | lab | Markdown Samples [Read more...](https://github.com/dial2vincent/lab) | Today |
 --- 
 ## Build your lab environment 
-- Host Operating System: Windows, Linux, Mac
+- Host Operating System: Linux, Windows, Mac
 - Virtual Machines: AWS, Hyper-V, VirtualBox
 - Guest operating systems: CentOS Streams, Oracle Linux, Ubuntu, Windows server
-## Utility Server
+
+## WSL on Windows
+- How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
 ### Requirement Tools: 
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
+- [x] Package Installed: Ansible, Code, Docker, Packer, Shell, Terraform
+- [ ] Need to Installed: 
+- [ ] Update the README.md
 
-==Dependencies packages== need to be installed:
+## Virtual Machines 
+### Linux Utility Server 
+### Requirement Tools: 
+- Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 
 Master node: myvm [^1]
 Managed node: myweb [^2]
@@ -25,15 +33,7 @@ Managed node: myweb [^2]
 [^1]: Location: myvm
 [^2]: Location: myweb
 
-## WSL
-
-### Requirement Tools: 
-- Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
-- [x] Package Installed: Ansible, Code, Docker, Packer, Shell, Terraform
-- [ ] Need to Installed: 
-- [ ] Update the README.md
-
-## Hosts
+## Guest Operating Systems
 ~~The node2 host is flat.~~
 - Ansible Host Nodes: node1, node2
 - Kubernetes Work Nodes: k8s-node1, k8s-node2
