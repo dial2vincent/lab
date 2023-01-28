@@ -18,22 +18,27 @@
 The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
 - How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
-- [x] Package Installed on WSL: Ansible, Code, Docker, Packer, Shell, Terraform
-- [ ] Need to Installed: 
-- [ ] Update the README.md
+- [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Shell, Terraform
+- [x] Package Installed on WSL: Python, Python3, Maven, Shell, Bash
+- [x] Application Installed on Windows: Vagrant, Virtualbox, 
+- [ ] Need to Installed: Java, JDK, Jenkins, Kubernetes
 
 ## Virtual Machines 
-### Linux Utility Server 
+### Utility Server 
 ### Requirement Tools: 
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
-
+- [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Shell, Terraform
+- [x] Package Installed on WSL: Python, Python3, Maven, Shell, Bash
+- [x] Application Installed on Windows: Vagrant, Virtualbox, 
+- [ ] Need to Installed: Java, JDK, Jenkins, Kubernetes
+## Hosts and Guest Operating Systems
 Master node: myvm [^1]
 Managed node: myweb [^2]
 
-[^1]: Location: myvm
-[^2]: Location: myweb
+[^1]: Location: aws
+[^2]: Location: aws
 
-## Guest Operating Systems
+## Hosts and Guest Operating Systems
 ~~The node2 host is flat.~~
 - Ansible Host Nodes: node1, node2
 - Kubernetes Work Nodes: k8s-node1, k8s-node2
