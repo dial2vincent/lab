@@ -55,10 +55,8 @@ The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- i
 [^3]: Location: aws
 
 ## Tracking the CHANGELOG.md
-~~The node2 host is flat.~~
-1. Ansible Host Nodes: node1, node2
-2. Web Server: myweb
-  - Requirement Tools: Tomcat server,
+1. Ansible Host Nodes: node1, ~~node2~~
+2. Web Server: myweb, Requirement Tools: Tomcat server,
   
 ## Tips & Notes
 ### How to find your Github Repo Size
