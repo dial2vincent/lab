@@ -22,21 +22,21 @@ The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- i
 - [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Terraform
 - [x] Package Installed on WSL: Python, Python3, Maven, Shell, Bash
 - [x] Application Installed on Windows: Vagrant, Virtualbox 
-- [ ] Need to Installed: Java, JDK, Jenkins, Kubernetes
+- [ ] Need to be Installed: Java, JDK, Jenkins, Kubernetes
 
 ## Virtual Machines 
 ### AWS 
 1. Master node: myvm 
 Utility Server (myvm) Requirement Tools: 
-- [x] Application Installed on AWS: Ansible, Code, Docker, Packer, Shell, Terraform
-- [x] Package Installed on AWS: Python, Python3, Maven, Shell, Bash
-- [x] Application Installed on AWS Linux: 
-- [ ] Need to Installed: Java, JDK, Jenkins, Kubernetes
+- [x] Application installed on AWS: Ansible, Code, Docker, Packer, Shell, Terraform
+- [x] Package installed on AWS: Python, Python3, Maven, Shell, Bash
+- [x] Application installed on AWS Linux: 
+- [ ] Need to be installed: Java, JDK, Jenkins, Kubernetes
 2. Managed node: myweb 
 Web Server (myweb) Requirement Tools: 
-- [x] Application Installed on AWS: Ansible, Code, Docker, Packer, Shell, Terraform
-- [x] Package Installed on AWS: Python, Python3, Maven, Shell, Bash
-- [x] Application Installed on AWS Linux: Tomcat
+- [x] Application installed on AWS: Ansible, Code, Docker, Packer, Shell, Terraform
+- [x] Package installed on AWS: Python, Python3, Maven, Shell, Bash
+- [x] Application installed on AWS Linux: Tomcat
 - [ ] Need to Installed: Java, JDK, Jenkins, Kubernetes
 
 ### Hyper-V
