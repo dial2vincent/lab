@@ -26,14 +26,12 @@ The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- i
 
 ## Virtual Machines 
 ### AWS 
-1. Master node: myvm 
-Utility Server (myvm) Requirement Tools: 
+1. Master node: myvm, Utility Server (myvm) Requirement Tools: 
 - [x] Application installed on AWS: Ansible, Code, Docker, Packer, Shell, Terraform
 - [x] Package installed on AWS: Python, Python3, Maven, Shell, Bash
 - [x] Application installed on AWS Linux: 
 - [ ] Need to be installed: Java, JDK, Jenkins, Kubernetes
-2. Managed node: myweb 
-Web Server (myweb) Requirement Tools: 
+2. Managed node: myweb, Web Server (myweb) Requirement Tools: 
 - [x] Application installed on AWS: Ansible, Code, Docker, Packer, Shell, Terraform
 - [x] Package installed on AWS: Python, Python3, Maven, Shell, Bash
 - [x] Application installed on AWS Linux: Tomcat
