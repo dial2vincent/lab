@@ -1,6 +1,6 @@
 
 # What is  mylab
-> The mylab is to experiment and learn—critical tasks for pursuing cloud computing, Linux, learning a new automation tools for setting up the cloud environment, improving devops work skills, or experimenting with cloud services.
+> My lab is to experiment and learn—critical tasks for pursuing cloud computing, Linux, learning new automation tools for setting up the cloud environment, improving DevOps work skills, or experimenting with cloud services.
 
 ![Tools on WSL](wsl.PNG)
 
@@ -16,7 +16,7 @@
 
 ## Laptop
 ### WSL Windows
-The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dualboot setup.
+The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual boot setup.
 - How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 - [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Terraform
