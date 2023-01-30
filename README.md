@@ -25,7 +25,7 @@ The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- i
 - [ ] Need to be Installed: Java, JDK, Jenkins, Kubernetes
 
 ## Virtual Machines 
-### AWS 
+### AWS [^1]
 1. Master node: myvm, Utility Server (myvm) Requirement Tools: 
 - [x] Application installed on AWS: Ansible, Code, Docker, Packer, Shell, Terraform
 - [x] Package installed on AWS: Python, Python3, Maven, Shell, Bash
@@ -37,22 +37,26 @@ The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- i
 - [x] Application installed on AWS Linux: Tomcat
 - [ ] Need to Installed: Java, JDK, Jenkins, Kubernetes
 
-### Hyper-V
-- Kubernetes master node: K8s
-  - Worker Nodes: k8s-node1, k8s-node2 [^1]
+- Ansible control node: myvm 
+  - Managed node: myweb 
+  
+### Hyper-V [^2]
+- Kubernetes master node: oracle
+  - Worker Nodes: oracle1, oracle2 
 - Ansible control node: utility
-  - Managed node: node1, node2 [^2]
+  - Managed node: oracle1, oracle2, ubunt2 
 
-### VirtualBox
+### VirtualBox [^3]
+B:
 - Kubernetes master node: K8s
-  - Worker Nodes: k8s-node1, k8s-node2 [^1]
-- Ansible control node: utility
-  - Managed node: node1, node2 [^2]
-- something here [^3]
+  - Worker Nodes: k8s-n1, k8s-n2 
+- Ansible control node: ansible
+  - Managed Node: n/a 
+- something here 
  
-[^1]: Location: hyper-v
-[^2]: Location: aws
-[^3]: Location: aws
+[^1]: Location: AWS 
+[^2]: Location: Windows 2012
+[^3]: Location: B
 
 ## Tracking the CHANGELOG.md
 1. Ansible Host Nodes: node1, ~~node2~~
