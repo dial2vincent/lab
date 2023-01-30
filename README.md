@@ -55,8 +55,8 @@ B:
 - something here 
  
  ### Guinea
- - Red
- - guinea-kitchen
+ - red
+ - kitchen
  - master
  - office
  
