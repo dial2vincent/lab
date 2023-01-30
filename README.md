@@ -54,6 +54,12 @@ B:
   - Managed Node: n/a 
 - something here 
  
+ ### Guinea
+ - Red
+ - guinea-kitchen
+ - master
+ - office
+ 
 [^1]: Location: AWS 
 [^2]: Location: Windows 2012
 [^3]: Location: B
