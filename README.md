@@ -18,9 +18,9 @@
 ### WSL Windows
 The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual boot setup.
 - How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
-- Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
-- [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Terraform
-- [x] Package Installed on WSL: Python, Python3, Bash
+- What applications and packages are installed on the WSL?
+- [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Python, Python3, Terraform
+- [x] Package Installed on WSL: Bash
 - [x] Application Installed on Windows: Vagrant, Virtualbox 
 - [ ] Need to be Installed: Java, Jenkins, Kubernetes
 
@@ -55,8 +55,8 @@ B:
  - master
  - office
  
-[^1]: Location: AWS 
-[^2]: Location: Windows 2012
+[^1]: Location: AWS, Hosts: myvm, myweb 
+[^2]: Location: Windows 2012 Hyper-v
 [^3]: Location: B
 
 ## Tracking the CHANGELOG.md
