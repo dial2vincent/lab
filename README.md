@@ -20,9 +20,9 @@ The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- i
 - How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 - [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Terraform
-- [x] Package Installed on WSL: Python, Python3, Maven, Bash
+- [x] Package Installed on WSL: Python, Python3, Bash
 - [x] Application Installed on Windows: Vagrant, Virtualbox 
-- [ ] Need to be Installed: Java, JDK, Jenkins, Kubernetes
+- [ ] Need to be Installed: Java, Jenkins, Kubernetes
 
 ## Virtual Machines 
 ### AWS [^1]
