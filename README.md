@@ -20,26 +20,21 @@ The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- i
 - How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
 - Ansible, Python, Python3, Bash, Code, Docker, Jenkins, Java, JDK, Kubernetes, Maven, Packer, Shell, Terraform, Vagrant, Virtualbox, 
 - [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Terraform
-- [x] Package Installed on WSL: Python, Python3, Maven, Shell, Bash
+- [x] Package Installed on WSL: Python, Python3, Maven, Bash
 - [x] Application Installed on Windows: Vagrant, Virtualbox 
 - [ ] Need to be Installed: Java, JDK, Jenkins, Kubernetes
 
 ## Virtual Machines 
 ### AWS [^1]
 1. Master node: myvm, Utility Server (myvm) Requirement Tools: 
-- [x] Application installed on AWS: Ansible, Code, Docker, Packer, Shell, Terraform
-- [x] Package installed on AWS: Python, Python3, Maven, Shell, Bash
-- [x] Application installed on AWS Linux: 
-- [ ] Need to be installed: Java, JDK, Jenkins, Kubernetes
+- [x] Application installed on AWS: Ansible, Docker, Git, Jenkins, Packer, Terraform
+- [x] Package installed on AWS: Bash, Java, Maven, Python, Python3
+- [x] Need to be installed: Visual Studio Code, Kubernetes
 2. Managed node: myweb, Web Server (myweb) Requirement Tools: 
-- [x] Application installed on AWS: Ansible, Code, Docker, Packer, Shell, Terraform
-- [x] Package installed on AWS: Python, Python3, Maven, Shell, Bash
-- [x] Application installed on AWS Linux: Tomcat
-- [ ] Need to Installed: Java, JDK, Jenkins, Kubernetes
-
-- Ansible control node: myvm 
-  - Managed node: myweb 
-  
+- [x] Application installed on AWS: Packer, Git, Tomcat
+- [x] Package installed on AWS: Java, Python, Python3, Maven, Bash
+- [ ] Need to Installed:
+ 
 ### Hyper-V [^2]
 - Kubernetes master node: oracle
   - Worker Nodes: oracle1, oracle2 
