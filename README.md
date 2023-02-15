@@ -6,8 +6,8 @@
 
 | Name | Description | Updated Date |
 | ----------- | ----------- | ----------- |
-| blog | [Read more...](https://dial2vincent.github.io/) | 2023 |
-| lab | Markdown Samples [Read more...](https://github.com/dial2vincent/lab) | Today |
+| Blog | GitHub Blog Site [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Lab | Markdown Samples [Read more...](https://github.com/dial2vincent/lab) | Today |
 --- 
 ## Build your lab environment 
 - Host Operating System: Linux, Windows, Mac
