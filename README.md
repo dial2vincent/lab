@@ -5,10 +5,22 @@
 ![Tools on WSL](wsl.PNG)
 
 --- 
-## Status of updates  
-| Name | Description | Updated Date |
-| ----------- | ----------- | ----------- |
-| Blog | GitHub Blog Site [Read more...](https://dial2vincent.github.io/) | 2023 |
+## Table of content  
+| Name | Type | Description | Last Update |
+| ----------- | ----------- | ----------- | ----------- |
+| Ansible | Configuration push based | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Bash | Linux | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Docker | Container | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Git | Version Control | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Github | Git remote repository | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Jenkins | CICD | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Kubernetes | Container Orchestrator | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Linux | CentOS Oracle RHEL Ubuntu | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Packer | Image builder | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Puppet | Configuration pull based | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Elastic | Elasticsearch Kibana | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Terraform | Provisioning | [Read more...](https://dial2vincent.github.io/) | 2023 |
+
 | Lab | Markdown Samples [Read more...](https://github.com/dial2vincent/lab) | Today |
 --- 
 ## Build your lab environment 
