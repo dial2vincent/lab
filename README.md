@@ -20,7 +20,8 @@
 | Puppet | Configuration pull based | [Tutorial](https://github.com/dial2vincent/puppet) | 2023 |
 | Elastic | Elasticsearch Kibana | [Read more...](https://dial2vincent.github.io/) | 2023 |
 | Terraform | Provisioning | [What](https://github.com/dial2vincent/terraform) [Tutorial](https://github.com/dial2vincent/Terraform-Tutorial) [Demo](https://github.com/dial2vincent/terraform-demo)| 2023 |
-| WSL | Windows Subsystem Linux | [What](https://github.com/dial2vincent/wsl)
+| Vagrant | Virtual Build | [Tutorial](https://github.com/dial2vincent/vagrant) | 2023 |
+| WSL | Windows Subsystem Linux | [What](https://github.com/dial2vincent/wsl) | 2023 |
 
 --- 
 ## Build your lab environment 
