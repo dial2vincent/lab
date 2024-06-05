@@ -23,7 +23,8 @@
 --- 
 ## Build your lab environment 
 - Host Operating System: Linux (CentOS, Oracle Linux, RHEL, Ubuntu, Windows, Mac)
-- Virtual Machines: AWS, Hyper-V, Virtual Box
+- Virtual Machines: AWS, Azure, Hyper-V, Virtual Box
+- Cloud: AWS, [Azure](https://github.com/dial2vincent/azure)
 
 ## Laptop
 ### WSL Windows
