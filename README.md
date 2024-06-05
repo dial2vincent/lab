@@ -27,7 +27,7 @@
 ## DevOps Project
 | Name | Type | Description | Last Update |
 | ----------- | ----------- | ----------- | ----------- |
-| Bash | Linux | [Read more...](https://github.com/dial2vincent/bash) | 2023 |
+| Simple DevOps Project | Public | [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project) | 2023 |
 --- 
 ## Build your lab environment 
 - Host Operating System: Linux (CentOS, Oracle Linux, RHEL, Ubuntu, Windows, Mac)
