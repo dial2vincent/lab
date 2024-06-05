@@ -19,7 +19,7 @@
 | Packer | Image builder | [Read more...](https://dial2vincent.github.io/) | 2023 |
 | Puppet | Configuration pull based | [Tutorial](https://github.com/dial2vincent/puppet) | 2023 |
 | Elastic | Elasticsearch Kibana | [Read more...](https://dial2vincent.github.io/) | 2023 |
-| Terraform | Provisioning | [Tutorial](https://github.com/dial2vincent/terraform) | 2023 |
+| Terraform | Provisioning | [Tutorial](https://github.com/dial2vincent/terraform) [Demo](https://github.com/dial2vincent/terraform-demo)| 2023 |
 --- 
 ## Build your lab environment 
 - Host Operating System: Linux (CentOS, Oracle Linux, RHEL, Ubuntu, Windows, Mac)
