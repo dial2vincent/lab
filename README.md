@@ -20,13 +20,10 @@
 | Puppet | Configuration pull based | [Read more...](https://dial2vincent.github.io/) | 2023 |
 | Elastic | Elasticsearch Kibana | [Read more...](https://dial2vincent.github.io/) | 2023 |
 | Terraform | Provisioning | [Read more...](https://dial2vincent.github.io/) | 2023 |
-
-| Lab | Markdown Samples [Read more...](https://github.com/dial2vincent/lab) | Today |
 --- 
 ## Build your lab environment 
-- Host Operating System: Linux, Windows, Mac
-- Virtual Machines: AWS, Hyper-V, VirtualBox
-  - Guest operating systems: RHEL, CentOS Streams, Oracle Linux, Ubuntu, Windows server
+- Host Operating System: Linux (CentOS, Oracle Linux, RHEL, Ubuntu, Windows, Mac)
+- Virtual Machines: AWS, Hyper-V, Virtual Box
 
 ## Laptop
 ### WSL Windows
