@@ -13,7 +13,7 @@
 | Docker | Container | [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project/tree/master/Docker) | 2023 |
 | Git | Version Control | [Read more...](https://dial2vincent.github.io/) | 2023 |
 | Github | Git remote repository | [Read more...](https://dial2vincent.github.io/) | 2023 |
-| Jenkins | CICD | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Jenkins | CICD | [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project/tree/master/Jenkins) | 2023 |
 | Kubernetes | Container Orchestrator | [Read more...](https://github.com/dial2vincent/k8s) | 2023 |
 | Linux | CentOS Oracle RHEL Ubuntu | [Read more...](https://dial2vincent.github.io/) | 2023 |
 | Packer | Image builder | [Read more...](https://dial2vincent.github.io/) | 2023 |
