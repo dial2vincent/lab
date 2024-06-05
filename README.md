@@ -9,7 +9,7 @@
 | Name | Type | Description | Last Update |
 | ----------- | ----------- | ----------- | ----------- |
 | Ansible | Configuration push based | [Tutorial](https://github.com/dial2vincent/ansible_tutorial) [Mac](https://github.com/dial2vincent/ansible-virtualbox) [Use Case](https://github.com/dial2vincent/a)| 2023 |
-|  |  | [ad-hoc](https://github.com/dial2vincent/ansible_tutorial) [playbook](https://github.com/dial2vincent/ansible-virtualbox) | 2023 |
+|  |  | [ad-hoc](https://github.com/dial2vincent/ansible_tutorial/blob/main/ad-hoc) [playbook](https://github.com/dial2vincent/ansible-virtualbox) | 2023 |
 | Bash | Linux | [Read more...](https://github.com/dial2vincent/bash) | 2023 |
 | Docker | Container | [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project/tree/master/Docker) | 2023 |
 | Git | Version Control | [Set up](https://github.com/dial2vincent/ansible_tutorial?tab=readme-ov-file#git-setup), [Instruction](https://github.com/dial2vincent/ansible-virtualbox?tab=readme-ov-file#git)| 2023 |
