@@ -62,7 +62,7 @@ The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- i
 ### Hyper-V [^2]
 - Kubernetes master node: oracle
   - Worker Nodes: oracle1, oracle2 
-- Ansible control node: utility
+- Ansible control node: utility, ubuntu
   - Managed node: oracle1, oracle2, ubunt2 
 
 ### VirtualBox [^3]
@@ -77,15 +77,16 @@ B:
  - red
  - kitchen
  - master
- - office
+ - office (Ubuntu, DESKTOP-198)
  
 [^1]: Location: AWS, Hosts: myvm, myweb 
 [^2]: Location: Windows 2012 Hyper-v
 [^3]: Location: B
 
 ## Tracking the CHANGELOG.md
-1. Ansible Host Nodes: node1, ~~node2~~
-2. Web Server: myweb, Requirement Tools: Tomcat server,
+1. Ansible control node: ubuntu | Hosts: ubuntu1, ubuntu2, ~~node2~~
+2. Puppet master: oracle | puppet client: oracle1, oracle2 
+3. Web Server: myweb, Requirement Tools: Tomcat server,
   
 ## Tips & Notes
 ### How to find your Github Repo Size
