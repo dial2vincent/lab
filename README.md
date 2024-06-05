@@ -16,7 +16,7 @@
 | Github | Git remote repository | [Read more...](https://dial2vincent.github.io/) | 2023 |
 | Jenkins | CICD | [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project/tree/master/Jenkins) | 2023 |
 | Kubernetes | Container Orchestrator | [Read more...](https://github.com/dial2vincent/k8s) | 2023 |
-| Linux | CentOS Oracle RHEL Ubuntu | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Linux | CentOS Oracle RHEL Ubuntu | [SSH Setup](https://github.com/dial2vincent/ansible_tutorial?tab=readme-ov-file#git-setup) | 2023 |
 | Packer | Image builder | [Read more...](https://dial2vincent.github.io/) | 2023 |
 | Puppet | Configuration pull based | [Tutorial](https://github.com/dial2vincent/puppet) | 2023 |
 | Elastic | Elasticsearch Kibana | [Read more...](https://dial2vincent.github.io/) | 2023 |
