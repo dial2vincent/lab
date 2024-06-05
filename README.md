@@ -27,7 +27,7 @@
 - Host Operating System: Linux (CentOS, Oracle Linux, RHEL, Ubuntu, Windows, Mac)
 - Virtual Machines: AWS, Azure, Hyper-V, Virtual Box
 - Cloud: AWS, [Azure](https://github.com/dial2vincent/azure)
-- Private: [Metro]
+- Private: [Metro](https://github.com/dial2vincent/dial2me) [Resume](https://github.com/dial2vincent/dial2git)
 
 ## Laptop
 ### WSL Windows
