@@ -24,6 +24,11 @@
 | WSL | Windows Subsystem Linux | [What](https://github.com/dial2vincent/wsl) | 2023 |
 
 --- 
+## DevOps Project
+| Name | Type | Description | Last Update |
+| ----------- | ----------- | ----------- | ----------- |
+| Bash | Linux | [Read more...](https://github.com/dial2vincent/bash) | 2023 |
+--- 
 ## Build your lab environment 
 - Host Operating System: Linux (CentOS, Oracle Linux, RHEL, Ubuntu, Windows, Mac)
 - Virtual Machines: AWS, Azure, Hyper-V, Virtual Box
