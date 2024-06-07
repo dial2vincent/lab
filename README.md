@@ -18,9 +18,9 @@
 | Kubernetes | Container Orchestrator | Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. |[more..](https://github.com/dial2vincent/lab) |
 | Git | Version Control | Git is a distributed version control system that tracks versions of files. | [more..](https://github.com/dial2vincent/lab) |
 | Github | Git remote repository | GitHub is a cloud-based platform where you can store, share, and work together with others to write code. |  [more...](https://dial2vincent.github.io/) | 
-| Linux | CentOS Oracle RHEL Ubuntu | | [more..](https://github.com/dial2vincent/lab) |
-| WSL | Windows Subsystem Linux |  | [more..](https://github.com/dial2vincent/lab) |
-| Bash | Linux | |  [more...](https://github.com/dial2vincent/bash) | 
+| Linux | CentOS Oracle RHEL Ubuntu | Linux is an open-source operating system (OS). An operating system is the software that directly manages a system’s hardware and resources, like CPU, memory, and storage.  | [more..](https://github.com/dial2vincent/lab) |
+| WSL | Windows Subsystem Linux | Windows Subsystem For Linux (WSL) is a tool provided by Microsoft to run Linux natively on Windows. | [more..](https://github.com/dial2vincent/lab) |
+| Bash | Linux | Bash is a command-line interpreter or Unix Shell |  [more...](https://github.com/dial2vincent/bash) | 
 --- 
 ## Sample Projects
 | Name | Type | Description | Link |
