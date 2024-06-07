@@ -19,7 +19,7 @@
 | Packer | Image builder | You can build standard images with a consistent configuration for things like patching, time, networking, security, and compliance to be maintained across environments. For example, an infrastructure or a security team can use Packer to build images that are then shared with other groups to provide baseline builds that force cross-organizational standards. | [more...](https://dial2vincent.github.io/) |
 | Puppet | Configuration pull based | | [more..](https://github.com/dial2vincent/lab) |
 | Elastic | Elasticsearch Kibana | |  [more...](https://dial2vincent.github.io/) | 
-| Terraform | Provisioning | Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers and custom in-house solutions. Configuration files describe to Terraform the components needed to run a single application or your entire data center. |[more..](https://github.com/dial2vincent/lab) |
+| Terraform | Provisioning | Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers and custom in-house solutions. Configuration files describe to Terraform the components needed to run a single application or your entire data center. |[more..](https://github.com/dial2vincent/Terraform-Tutorial) |
 | Vagrant | Virtual Build | |[more..](https://github.com/dial2vincent/lab) |
 | WSL | Windows Subsystem Linux |  | [more..](https://github.com/dial2vincent/lab) |
 
