@@ -25,12 +25,14 @@
 
 --- 
 ## Sample Projects
-| Name | Type | Description | Last Update |
+| Name | Type | Description | Link |
 | ----------- | ----------- | ----------- | ----------- |
 | Simple DevOps Project | Public | [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project) | 2023 |
+| Hello World | Public | CICD with Jenkins, Ansible, Docker, Kubernetes | [Read more...](https://github.com/dial2vincent/hello-world) | 
 | 3-tier-architecture | Public | [Read more...](https://github.com/dial2vincent/3-tier-architecture) | 2023 |
 | Infrastructure As Code (IaC) | Private | [Read more...](https://github.com/dial2vincent/iac) | 2023 |
 
+https://github.com/dial2vincent/hello-world
 --- 
 ## Lab environment 
 - Host Operating System: Linux (CentOS, Oracle Linux, RHEL, Ubuntu, Windows, Mac)
