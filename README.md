@@ -39,47 +39,6 @@
 - Cloud: AWS, [Azure](https://github.com/dial2vincent/azure)
 
 
-
-
-## Virtual Machines 
-### AWS [^1]
-1. Master node: myvm, Utility Server (myvm) Requirement Tools: 
-- [x] Application installed on AWS: Ansible, Docker, Git, Jenkins, Packer, Terraform
-- [x] Package installed on AWS: Bash, Java, Maven, Python, Python3
-- [x] Need to be installed: Visual Studio Code, Kubernetes
-2. Managed node: myweb, Web Server (myweb) Requirement Tools: 
-- [x] Application installed on AWS: Packer, Git, Tomcat
-- [x] Package installed on AWS: Java, Python, Python3, Maven, Bash
-- [ ] Need to Installed:
- 
-### Hyper-V [^2]
-- Kubernetes master node: oracle
-  - Worker Nodes: oracle1, oracle2 
-- Ansible control node: utility, ubuntu
-  - Managed node: oracle1, oracle2, ubunt2 
-
-### VirtualBox [^3]
-B:
-- Kubernetes master node: K8s
-  - Worker Nodes: k8s-n1, k8s-n2 
-- Ansible control node: ansible
-  - Managed Node: n/a 
-- something here 
- 
-[^1]: Location: AWS, Hosts: myvm, myweb 
-[^2]: Location: Windows 2012 Hyper-v
-[^3]: Location: B
-
-## Laptop/Desktop/Server
-### WSL Windows
-The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual boot setup.
-- How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
-- What applications and packages are installed on the WSL?
-- [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Python, Python3, Terraform
-- [x] Package Installed on WSL: Bash
-- [x] Application Installed on Windows: Vagrant, Virtualbox 
-- [ ] Need to be Installed: Java, Jenkins, Kubernetes
-
 ## Tracking the CHANGELOG.md
 1. Ansible control node: ubuntu | Hosts: ubuntu1, ubuntu2, ~~node2~~
 2. Puppet master: oracle | puppet client: oracle1, oracle2 
