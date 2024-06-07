@@ -6,23 +6,23 @@
 
 --- 
 ## Table of content  
-| Name | Type | Description | Last Update |
-| ----------- | ----------- | ----------- | ----------- |
-| Ansible | Configuration push based | [Tutorial](https://github.com/dial2vincent/ansible_tutorial) [Mac](https://github.com/dial2vincent/ansible-virtualbox) [Use Case](https://github.com/dial2vincent/a)| 2023 |
+| Name | Type | Description | Link | Last Update |
+| ----------- | ----------- | ----------- | ----------- |----------- |
+| Ansible | Configuration push based | xxxx | [Tutorial](https://github.com/dial2vincent/ansible_tutorial) [Mac](https://github.com/dial2vincent/ansible-virtualbox) [Use Case](https://github.com/dial2vincent/a)| 2023 |
 |  |  | [ad-hoc](https://github.com/dial2vincent/ansible_tutorial/blob/main/ad-hoc) [playbook](https://github.com/dial2vincent/ansible-virtualbox) | 2023 |
-| Bash | Linux | [Read more...](https://github.com/dial2vincent/bash) | 2023 |
-| Docker | Container | [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project/tree/master/Docker) | 2023 |
-| Git | Version Control | [Set up](https://github.com/dial2vincent/ansible_tutorial?tab=readme-ov-file#git-setup), [Instruction](https://github.com/dial2vincent/ansible-virtualbox?tab=readme-ov-file#git)| 2023 |
-| Github | Git remote repository | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Bash | Linux | |  [Read more...](https://github.com/dial2vincent/bash) | 2023 |
+| Docker | Container | |  [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project/tree/master/Docker) | 2023 |
+| Git | Version Control | |  [Set up](https://github.com/dial2vincent/ansible_tutorial?tab=readme-ov-file#git-setup), [Instruction](https://github.com/dial2vincent/ansible-virtualbox?tab=readme-ov-file#git)| 2023 |
+| Github | Git remote repository | |  [Read more...](https://dial2vincent.github.io/) | 2023 |
 | Jenkins | CICD | [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project/tree/master/Jenkins) | 2023 |
-| Kubernetes | Container Orchestrator | [Read more...](https://github.com/dial2vincent/k8s) | 2023 |
-| Linux | CentOS Oracle RHEL Ubuntu | [SSH Setup](https://github.com/dial2vincent/ansible_tutorial?tab=readme-ov-file#git-setup) | 2023 |
-| Packer | Image builder | [Read more...](https://dial2vincent.github.io/) | 2023 |
-| Puppet | Configuration pull based | [Tutorial](https://github.com/dial2vincent/puppet) | 2023 |
-| Elastic | Elasticsearch Kibana | [Read more...](https://dial2vincent.github.io/) | 2023 |
-| Terraform | Provisioning | [What](https://github.com/dial2vincent/terraform) [Tutorial](https://github.com/dial2vincent/Terraform-Tutorial) [Demo](https://github.com/dial2vincent/terraform-demo)| 2023 |
-| Vagrant | Virtual Build | [Tutorial](https://github.com/dial2vincent/vagrant) | 2023 |
-| WSL | Windows Subsystem Linux | [What](https://github.com/dial2vincent/wsl) | 2023 |
+| Kubernetes | Container Orchestrator | |  [Read more...](https://github.com/dial2vincent/k8s) | 2023 |
+| Linux | CentOS Oracle RHEL Ubuntu | |  [SSH Setup](https://github.com/dial2vincent/ansible_tutorial?tab=readme-ov-file#git-setup) | 2023 |
+| Packer | Image builder | You can build standard images with a consistent configuration for things like patching, time, networking, security, and compliance to be maintained across environments. For example, an infrastructure or a security team can use Packer to build images that are then shared with other groups to provide baseline builds that force cross-organizational standards. | [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Puppet | Configuration pull based | |  [Tutorial](https://github.com/dial2vincent/puppet) | 2023 |
+| Elastic | Elasticsearch Kibana | |  [Read more...](https://dial2vincent.github.io/) | 2023 |
+| Terraform | Provisioning | Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers and custom in-house solutions. Configuration files describe to Terraform the components needed to run a single application or your entire data center. | [What](https://github.com/dial2vincent/terraform) [Tutorial](https://github.com/dial2vincent/Terraform-Tutorial) [Demo](https://github.com/dial2vincent/terraform-demo)| 2023 |
+| Vagrant | Virtual Build | | [Tutorial](https://github.com/dial2vincent/vagrant) | 2023 |
+| WSL | Windows Subsystem Linux |  |  [What](https://github.com/dial2vincent/wsl) | 2023 |
 
 --- 
 ## Projects
