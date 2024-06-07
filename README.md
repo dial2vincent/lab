@@ -29,11 +29,10 @@
 | ----------- | ----------- | ----------- | ----------- |
 | Simple DevOps Project | Public | CICD with Jenkins, Ansible, Docker, Kubernetes | [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project) | 
 | Hello World | Public | CICD with Jenkins, Ansible, Docker, Kubernetes | [Read more...](https://github.com/dial2vincent/hello-world) | 
-| 3-tier-architecture | Public | [Read more...](https://github.com/dial2vincent/3-tier-architecture) | 2023 |
-| Infrastructure As Code (IaC) | Private | [Read more...](https://github.com/dial2vincent/iac) | 2023 |
-
-https://github.com/dial2vincent/hello-world
+| 3-tier-architecture | Public | Installation of Terraform on AWS and install EC2 on AWS | [Read more...](https://github.com/dial2vincent/3-tier-architecture) |
+| Infrastructure As Code (IaC) | Private | Build Lab | [Read more...](https://github.com/dial2vincent/iac) |
 --- 
+
 ## Lab environment 
 - Host Operating System: Linux (CentOS, Oracle Linux, RHEL, Ubuntu, Windows, Mac)
 - Virtual Machines: AWS, Azure, Hyper-V, Virtual Box
