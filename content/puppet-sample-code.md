@@ -1,6 +1,6 @@
 # Automation Tools 
-[Terraform](https://github.com/dial2vincent/terraform)
-[Ansible](https://github.com/dial2vincent/puppet/blob/main/README-Ansible.md)
+- [Puppet](https://github.com/dial2vincent/lab/blob/master/content/puppet.md)
+- [Puppet Sample Code](https://github.com/dial2vincent/lab/blob/master/content/puppet-sample-code.md)
 
 # Puppet Testing a sample manifest
 - Story: 3 Oracle Linux virtual machines in the lab installed a Puppet server and two Puppet client virtual machines.

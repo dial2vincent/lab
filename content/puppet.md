@@ -1,4 +1,6 @@
-
+# Automation Tools 
+- [Puppet](https://github.com/dial2vincent/lab/blob/master/content/puppet.md)
+- [Puppet Sample Code](https://github.com/dial2vincent/lab/blob/master/content/puppet-sample-code.md)
 # Puppet
 puppet installation on Ubuntu 24.04 and Oracle 7.9
 
