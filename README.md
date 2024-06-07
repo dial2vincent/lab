@@ -24,7 +24,7 @@
 | WSL | Windows Subsystem Linux |  | [more..](https://github.com/dial2vincent/lab) |
 
 --- 
-## Projects
+## Sample Projects
 | Name | Type | Description | Last Update |
 | ----------- | ----------- | ----------- | ----------- |
 | Simple DevOps Project | Public | [Read more...](https://github.com/dial2vincent/Simple-DevOps-Project) | 2023 |
@@ -32,21 +32,13 @@
 | Infrastructure As Code (IaC) | Private | [Read more...](https://github.com/dial2vincent/iac) | 2023 |
 
 --- 
-## Build your lab environment 
+## Lab environment 
 - Host Operating System: Linux (CentOS, Oracle Linux, RHEL, Ubuntu, Windows, Mac)
 - Virtual Machines: AWS, Azure, Hyper-V, Virtual Box
 - Cloud: AWS, [Azure](https://github.com/dial2vincent/azure)
 - Private: [Metro](https://github.com/dial2vincent/dial2me) [Resume](https://github.com/dial2vincent/dial2git)
 
-## Laptop
-### WSL Windows
-The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual boot setup.
-- How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
-- What applications and packages are installed on the WSL?
-- [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Python, Python3, Terraform
-- [x] Package Installed on WSL: Bash
-- [x] Application Installed on Windows: Vagrant, Virtualbox 
-- [ ] Need to be Installed: Java, Jenkins, Kubernetes
+
 
 ## Virtual Machines 
 ### AWS [^1]
@@ -73,15 +65,19 @@ B:
   - Managed Node: n/a 
 - something here 
  
- ### Guinea
- - red
- - kitchen
- - master
- - office (Ubuntu, DESKTOP-198)
- 
 [^1]: Location: AWS, Hosts: myvm, myweb 
 [^2]: Location: Windows 2012 Hyper-v
 [^3]: Location: B
+
+## Laptop/Desktop/Server
+### WSL Windows
+The Windows Subsystem for Linux lets developers run a GNU/Linux environment -- including most command-line tools, utilities, and applications -- directly on Windows, unmodified, without the overhead of a traditional virtual machine or dual boot setup.
+- How to set up WSL on your labtop  [Read more...](https://github.com/dial2vincent/wsl)
+- What applications and packages are installed on the WSL?
+- [x] Application Installed on WSL: Ansible, Code, Docker, Packer, Python, Python3, Terraform
+- [x] Package Installed on WSL: Bash
+- [x] Application Installed on Windows: Vagrant, Virtualbox 
+- [ ] Need to be Installed: Java, Jenkins, Kubernetes
 
 ## Tracking the CHANGELOG.md
 1. Ansible control node: ubuntu | Hosts: ubuntu1, ubuntu2, ~~node2~~
