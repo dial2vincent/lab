@@ -28,4 +28,16 @@ git remote add origin x # replace x with copy the HTTPS URL of the repository cr
 git remote add origin https://github.com/dial2vincent/lab.git
 git remote -v
 git push -u origin master
+
+
+git config --list
+git config --global -e
+code .                                           # 비주얼 스튜디오를 사용한다면 
+git config --global core.editor "code"           # VS를 주 에딕터로 사용한다면 
+git config --global core.editor "code --wait"      
+git --global user.name "Vincent Lee"
+git --global user.email "dial2vincent@yahoo.com"
+git config --global alias.st status              # 단축키로 st 만치면 status가 나타난다. 
+git st
+git config -h
 ~~~
