@@ -14,13 +14,13 @@
 | Ansible | Configuration (push-based) | Ansible is a configuration management tool that can configure Linux devices and Windows and is agentless. The Playbooks used to configure systems are YAML format files that are easily read and write a playbook on how the system should be set up. |[more..](https://github.com/dial2vincent/lab/blob/master/content/ansible.md) |
 | Puppet | Configuration (pull-based) | Puppet, you define the desired state of the systems in your infrastructure that you want to manage. | [more..](https://github.com/dial2vincent/lab/blob/master/content/puppet.md) |
 | Jenkins | CICD | Jenkins is a tool used for automation, and it is an open-source server that allows all developers to build, test, and deploy software. | [more...](https://github.com/dial2vincent/Simple-DevOps-Project/tree/master/Jenkins) | 
-| Docker | Container | Docker is a tool for running your applications inside containers, which package all the dependencies and code your app needs to run into a single file. | [more..](https://github.com/dial2vincent/lab) |
-| Kubernetes | Container Orchestrator | Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. |[more..](https://github.com/dial2vincent/lab) |
-| Git | Version Control | Git is a distributed version control system that tracks versions of files. | [more..](https://github.com/dial2vincent/lab) |
-| Github | Git remote repository | GitHub is a cloud-based platform where you can store, share, and work together with others to write code. |  [more...](https://dial2vincent.github.io/) | 
-| Linux | CentOS Oracle RHEL Ubuntu | Linux is an open-source operating system (OS). An operating system is the software that directly manages a system’s hardware and resources, like CPU, memory, and storage.  | [more..](https://github.com/dial2vincent/lab) |
-| WSL | Windows Subsystem Linux | Windows Subsystem For Linux (WSL) is a tool provided by Microsoft to run Linux natively on Windows. | [more..](https://github.com/dial2vincent/lab) |
-| Bash | Linux | Bash is a command-line interpreter or Unix Shell |  [more...](https://github.com/dial2vincent/bash) | 
+| Docker | Container | Docker is a tool for running your applications inside containers, which package all the dependencies and code your app needs to run into a single file. | [more..](https://github.com/dial2vincent/lab/blob/master/content/docker.md) |
+| Kubernetes | Container Orchestrator | Kubernetes is a portable, extensible, open-source platform for managing containerized workloads and services, that facilitates both declarative configuration and automation. |[more..](https://github.com/dial2vincent/lab/blob/master/content/k8s.md) |
+| Git | Version Control | Git is a distributed version control system that tracks versions of files. | [more..](https://github.com/dial2vincent/lab/blob/master/content/git.md) |
+| Github | Git remote repository | GitHub is a cloud-based platform where you can store, share, and work together with others to write code. |  [more...](https://github.com/dial2vincent/lab/blob/master/content/github.md) | 
+| Linux | CentOS Oracle RHEL Ubuntu | Linux is an open-source operating system (OS). An operating system is the software that directly manages a system’s hardware and resources, like CPU, memory, and storage.  | [more..](https://github.com/dial2vincent/lab/blob/master/content/linux.md) |
+| WSL | Windows Subsystem Linux | Windows Subsystem For Linux (WSL) is a tool provided by Microsoft to run Linux natively on Windows. | [more..](https://github.com/dial2vincent/lab/blob/master/content/wsl.md) |
+| Bash | Linux | Bash is a command-line interpreter or Unix Shell |  [more...](https://github.com/dial2vincent/bash) [shell](https://github.com/dial2vincent/lab/blob/master/content/bash.md)| 
 --- 
 ## Sample Projects
 | Name | Type | Description | Link |
