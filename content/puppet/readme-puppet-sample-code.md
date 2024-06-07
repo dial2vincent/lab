@@ -3,7 +3,7 @@
 [Ansible](https://github.com/dial2vincent/puppet/blob/main/README-Ansible.md)
 
 # Puppet Testing a sample manifest
-- Story: I built 3 Oracle Linux virtual machines in my lab and installed a Puppet server and two Puppet client virtual machines.
+- Story: 3 Oracle Linux virtual machines in the lab installed a Puppet server and two Puppet client virtual machines.
 - Location: 
 - Oracle Linux Puppet server (188): /etc/puppetlabs/code/environments/production/manifests
 - Oracle Linux Puppet client (78): /opt/puppetlabs/bin/puppet
