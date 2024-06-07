@@ -15,7 +15,7 @@
 | Github | Git remote repository | |  [more...](https://dial2vincent.github.io/) | 
 | Jenkins | CICD | | [more...](https://github.com/dial2vincent/Simple-DevOps-Project/tree/master/Jenkins) | 
 | Kubernetes | Container Orchestrator | |[more..](https://github.com/dial2vincent/lab) |
-| Linux | CentOS Oracle RHEL Ubuntu | | [more..](https://github.com/dial2vincent/lab)] |
+| Linux | CentOS Oracle RHEL Ubuntu | | [more..](https://github.com/dial2vincent/lab) |
 | Packer | Image builder | You can build standard images with a consistent configuration for things like patching, time, networking, security, and compliance to be maintained across environments. For example, an infrastructure or a security team can use Packer to build images that are then shared with other groups to provide baseline builds that force cross-organizational standards. | [more...](https://dial2vincent.github.io/) |
 | Puppet | Configuration pull based | | [more..](https://github.com/dial2vincent/lab) |
 | Elastic | Elasticsearch Kibana | |  [more...](https://dial2vincent.github.io/) | 
