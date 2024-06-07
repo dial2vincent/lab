@@ -8,9 +8,10 @@
 ## Table of content  
 | Name | Type | Description | Link | 
 | ----------- | ----------- | ----------- | ----------- |
-| Ansible | Configuration push based | xxxx |[more..](https://github.com/dial2vincent/lab) |
+| Ansible | Configuration push based | Ansible is a configuration management tool that can configure Linux devices and Windows, and it’s agentless. The Playbooks used to configure systems are YAML format files that are easily read and write a playbook on how the system should be set up. |[more..](https://github.com/dial2vincent/lab) |
 | Bash | Linux | |  [more...](https://github.com/dial2vincent/bash) | 
 | Docker | Container | | [more..](https://github.com/dial2vincent/lab) |
+| Elastic | Elasticsearch Kibana | |  [more...](https://dial2vincent.github.io/) | 
 | Git | Version Control | | [more..](https://github.com/dial2vincent/lab) |
 | Github | Git remote repository | |  [more...](https://dial2vincent.github.io/) | 
 | Jenkins | CICD | | [more...](https://github.com/dial2vincent/Simple-DevOps-Project/tree/master/Jenkins) | 
@@ -18,7 +19,6 @@
 | Linux | CentOS Oracle RHEL Ubuntu | | [more..](https://github.com/dial2vincent/lab) |
 | Packer | Image builder | You can build standard images with a consistent configuration for things like patching, time, networking, security, and compliance to be maintained across environments. For example, an infrastructure or a security team can use Packer to build images that are then shared with other groups to provide baseline builds that force cross-organizational standards. We use a Continuous Integration/Continuous Deployment (CI/CD) approach to deploy new Amazon EC2 images. Packer builds Amazon Machine Images (AMIs) using Ansible, Terraform uses those AMIs when hosts and services are built, and Ansible runs again to provide final configuration and to keep our hosts correctly configured.  | [more...](https://dial2vincent.github.io/) |
 | Puppet | Configuration pull based | | [more..](https://github.com/dial2vincent/lab) |
-| Elastic | Elasticsearch Kibana | |  [more...](https://dial2vincent.github.io/) | 
 | Terraform | Provisioning | Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers and custom in-house solutions. Configuration files describe to Terraform the components needed to run a single application or your entire data center. |[more..](https://github.com/dial2vincent/Terraform-Tutorial) |
 | Vagrant | Virtual Build | |[more..](https://github.com/dial2vincent/lab) |
 | WSL | Windows Subsystem Linux |  | [more..](https://github.com/dial2vincent/lab) |
