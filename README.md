@@ -10,7 +10,7 @@
 | ----------- | ----------- | ----------- | ----------- |
 | Terraform | Infrastructure Provisioning | Terraform is a tool for building, changing, and versioning infrastructure safely and efficiently. Terraform can manage existing and popular service providers and custom in-house solutions. Configuration files describe to Terraform the components needed to run a single application or your entire data center. |[more..](https://github.com/dial2vincent/Terraform-Tutorial) |
 | Ansible | Configuration (push-based) | Ansible is a configuration management tool that can configure Linux devices and Windows, and it’s agentless. The Playbooks used to configure systems are YAML format files that are easily read and write a playbook on how the system should be set up. |[more..](https://github.com/dial2vincent/lab/blob/master/content/ansible.md) |
-| Puppet | Configuration (pull-based) | | [more..](https://github.com/dial2vincent/lab/blob/master/content/puppet.md) |
+| Puppet | Configuration (pull-based) | Puppet, you define the desired state of the systems in your infrastructure that you want to manage. | [more..](https://github.com/dial2vincent/lab/blob/master/content/puppet.md) |
 | Bash | Linux | |  [more...](https://github.com/dial2vincent/bash) | 
 | Docker | Container | | [more..](https://github.com/dial2vincent/lab) |
 | Elastic | Elasticsearch Kibana | |  [more...](https://dial2vincent.github.io/) | 
