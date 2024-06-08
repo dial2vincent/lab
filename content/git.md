@@ -29,6 +29,7 @@ git st
 git config -h
 ~~~
 ## Git commands:
+- Demo command
 ~~~
 mkdir folder1
 cd folder
