@@ -41,6 +41,25 @@ git remote add origin https://github.com/dial2vincent/lab.git
 git remote -v
 git push -u origin master
 ~~~
+- Demo command
+~~~
+mkdir projects
+cd projects
+mkdir project1
+cd project1
+git init                  # git initialize 깃으로 Track 하기 시작할때 
+ls -al
+rm -rf .git               # 깃으로 더이상 Track 하고 싶지 않는다면 .git 폴더를 삭제한다.
+
+git add filename
+git status
+git rm --cached *.*       # staging 에서 untracked 로 옮겨오고 싶다면 
+echo *.log > .gitignore   # 만약 로그 파일을 git/github 에 추가하고 싶지 않다면 .gitignore 파일에 화일명을 추가하면 된다.
+git diff                  # 변경된 내용을 working directory 에서 확인하고 싶다면
+git diff --staged         # 변경된 내용을 staging area 에서 확인하고 싶다면 
+git diff --cached         # cached 는 staged 와 마찬가지로 사용된다.
+git diff -h
+~~~
 
 ## Git use case:
 저장소가 이미 만들어져 있는 경우: 
