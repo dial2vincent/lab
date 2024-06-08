@@ -63,7 +63,7 @@ git diff --staged         # 변경된 내용을 staging area 에서 확인하고
 git diff --cached         # cached 는 staged 와 마찬가지로 사용된다.
 git diff -h
 ~~~
-Git Demo command
+- Demo command
 ~~~
 git version
 git config -l --global
