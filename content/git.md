@@ -40,7 +40,15 @@ git remote add origin x # replace x with copy the HTTPS URL of the repository cr
 git remote add origin https://github.com/dial2vincent/lab.git
 git remote -v
 git push -u origin master
-
-
-
 ~~~
+
+## Git use case:
+저장소가 이미 만들어져 있는 경우: 
+`git remote add origin https://github.com/dial2vincent/lab.git`
+
+저장소로 부터 코드를 가져올 경우:
+`git clone https://github.com/dial2vincent/lab.git`
+
+저장소를 변경할 경우 :
+`git remote set-url origin <저장소위치.git>`
+
