@@ -1,7 +1,7 @@
 # Git
 **"Git"** is software that helps developers to work simultaneously while maintaining a complete history of their work, without overwriting each other’s work.
 
-**“GitHub”** is a website that provides us a remote repository, so you can put all your work on the cloud, thereby it is backed up & interactive through its visual interface.
+**“GitHub”** is a website that provides us a remote repository, so you can put all your work on the cloud, thereby it is backed up & interactive through its visual interface. [GitHub](https://github.com/dial2vincent/lab/blob/master/content/github.md)
 ## Git installation and configuration
 ### Git configuration:
 - Sample case 1
