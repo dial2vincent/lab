@@ -2,7 +2,7 @@
 ## GitHub Set up
 
 - Create Git repository named your_repo  in the GitHub
-- Copy the user default public key to the Github->Setting->SSH->Add public key 
+- Copy the user's default public key to the Github->Setting->SSH->Add public key 
 - Click Code-> Tap SSH and copy the address from the repository and paste to the local machine utility server in Hyper-V
 
 ## Personal Access Token
