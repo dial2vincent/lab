@@ -32,7 +32,7 @@
 --- 
 
 ## Lab environment 
-- Cloud: [AWS](), Azure
+- Cloud: [AWS](https://github.com/dial2vincent/lab/blob/master/content/aws.md), Azure
 - Virtual Machines: AWS, Azure, Hyper-V, Virtual Box
 - Host Operating System: Linux (CentOS, Oracle Linux, RHEL, Ubuntu), Windows, Mac
 
