@@ -3,7 +3,7 @@
 - Region
 - Availability Zone (AZs)
 
-**“Services”** 
+**“AWS Services”** 
 - Networking
   - VPC (Virtual Private Cloud)
   - SG (Security Group)
