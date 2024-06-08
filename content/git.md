@@ -3,6 +3,8 @@
 
 **“GitHub”** is a website that provides us a remote repository, so you can put all your work on the cloud, thereby it is backed up & interactive through its visual interface. [GitHub](https://github.com/dial2vincent/lab/blob/master/content/github.md)
 ## Git installation and configuration
+### Git installation:
+
 ### Git configuration:
 - Sample case 1
 ~~~
