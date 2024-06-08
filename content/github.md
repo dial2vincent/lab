@@ -10,7 +10,7 @@ URL documents: https://help.github.com/en/github/authenticating-to-github/creati
 
 
 
-If you have two-factor authentication enabled, you must create a personal access token to use instead of your GitHub password. [Read more](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line)
+If you have two-factor authentication enabled, you must create a personal access token to use instead of your GitHub password. [Read more](https://help.github.com/en/github/authenticating-to-github/creating-a-personal-access-token-for-the-command-line){:target="_blank"}
 
 Change remote URLs from SSH to HTTPS:
 
