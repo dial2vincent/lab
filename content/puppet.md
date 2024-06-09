@@ -77,12 +77,14 @@ sudo systemctl enable puppet
  3. Run Puppet Agent again: On Agent
 
 Completed to add installation on the Ubuntu
+
 ---
+
 #### Sample manifests on your puppet master
 - Location: /etc/puppetlabs/code/environments/production/manifests/site.pp
 1. Create Manifests site.pp
 ~~~
-node 'puppetmaster, puppetagent, puppetagent2' {  # Replace 'agent-node-fqdn' with your Puppet agent's fully qualified domain name
+node 'puppetmaster, puppetclient1, puppetclient2' {  # Replace 'agent-node-fqdn' with your Puppet agent's fully qualified domain name
   class { 'ntp':
     servers => ['0.pool.ntp.org', '1.pool.ntp.org'],
   }
