@@ -6,7 +6,8 @@
 - Story: 3 Oracle Linux virtual machines in the lab installed a Puppet server and two Puppet client virtual machines.
 - Location: 
 - Oracle Linux Puppet server (188): /etc/puppetlabs/code/environments/production/manifests
-- Oracle Linux Puppet client (78): /opt/puppetlabs/bin/puppet
+- Oracle Linux Puppet client 1 (78): /opt/puppetlabs/bin/puppet
+- Oracle Linux Puppet client 2 (34): /opt/puppetlabs/bin/puppet
 
 ## Puppet Server 
 
