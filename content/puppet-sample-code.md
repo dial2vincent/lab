@@ -35,7 +35,19 @@ node default {
 
 ## Puppet Client
 ### Steps: Apply the manifest from a client machine.
- 1. Log into the client machine (78) 
+ 1. Log into the client machine (34)\ 
   `ssh root@puppetclient1`
- 2. Request a catalog, compile, and apply catalog to the Puppet master
-  `sudo /opt/puppetlabs/bin/puppet agent --test`
+ 2. Request a catalog, compile, and apply the catalog to the Puppet master\
+  `sudo /opt/puppetlabs/bin/puppet agent --test`\
+- Results:
+~~~
+Info: Using environment 'production'
+Info: Retrieving pluginfacts
+Info: Retrieving plugin
+Notice: Requesting catalog from oracle.mynetworksettings.com:8140 (192.168.1.188)
+Notice: Catalog compiled by oracle.mynetworksettings.com
+Info: Caching catalog for oracle2.mynetworksettings.com
+Info: Applying configuration version '1717984544'
+Notice: Applied catalog in 0.14 seconds
+
+~~~
