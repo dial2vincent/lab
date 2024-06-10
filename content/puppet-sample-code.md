@@ -35,10 +35,10 @@ node default {
 
 ## Puppet Client
 ### Steps: Apply the manifest from a client machine.
- 1. Log into the client machine (34)\ 
+ 1. Log into the client machine (34)  
   `ssh root@puppetclient1`
- 2. Request a catalog, compile, and apply the catalog to the Puppet master\
-  `sudo /opt/puppetlabs/bin/puppet agent --test`\
+ 2. Request a catalog, compile, and apply the catalog to the Puppet master  
+  `sudo /opt/puppetlabs/bin/puppet agent --test`  
 - Results:
 ~~~
 Info: Using environment 'production'
