@@ -93,7 +93,7 @@ node 'puppetmaster, puppetclient1, puppetclient2' {  # Replace 'agent-node-fqdn'
 2. Install NTP module
 `sudo puppet module install puppetlabs-ntp`
 3. Apply the manifest on the Puppet agent
-   `sudo puppet agent --test`
+   `sudo /opt/puppetlabs/bin/puppet agent --test`
 4. Verify the set up
    `sudo systemctl status ntp`
 To check the package installed:
