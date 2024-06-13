@@ -1,10 +1,22 @@
+
 # Ansible
-## Ansible Installation
-`sudo yum install ansible`\
-`ansible --version`\
-` ansible -m setup localhost | grep ansible_python_version`
-## Ansible Inventory
-- Add inventory on /etc/ansible/hosts
-- Display inventory hosts \
+
+## Installation
+~~~
+sudo yum install ansible -y
+ansible --version
+~~~
+## Configuration
+Location: /etc/ansible 
+- ansible.cfg
+- hosts
+inventory\
 `ansible all --list-hosts`\
 `ansible oracle_linux  --list-hosts`
+## Tutorial
+
+## Demo
+
+## Use case
+- ad-hoc command
+ansible -m setup localhost | grep ansible_python_version
