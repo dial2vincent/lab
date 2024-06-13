@@ -18,5 +18,5 @@ inventory\
 ## Demo
 
 ## Use case
-- ad-hoc command
+- ad-hoc command:\
 ansible -m setup localhost | grep ansible_python_version
