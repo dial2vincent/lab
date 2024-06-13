@@ -11,6 +11,7 @@ Location: /etc/ansible
 - ansible.cfg
 - hosts
 inventory\
+`ansible-inventory --list`\
 `ansible all --list-hosts`\
 `ansible oracle_linux  --list-hosts`
 ## Tutorial
