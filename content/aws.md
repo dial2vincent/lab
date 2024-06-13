@@ -1,4 +1,5 @@
 # AWS
+Understand the basic concept of the AWS service
 **"Global AWS Infrastructure"** 
 - Region
 - Availability Zone (AZs)
@@ -19,17 +20,17 @@
 
 
 ## AWS Certification
-- Solution 
-## Build your skills
+- Solution Architect, SysOps Administrator
+## How to build your skills
 - Do a project
   - YouTube
-    - Wordpress Website Hosting
+    - WordPress Website Hosting
     - Static Website Hosting
     - Serverless Web Crawler
   - Paid content (AWS Learning Learning Accelerator)
 - Study AWS Architectures
   - AWS Reference Architectures
-- Create your own project ideas
+- Create your project ideas
   - ATO project
   - Fullstack App
   - Data Ingestion and processing pipeline
@@ -37,7 +38,7 @@
   - CI / CD pipeline
 - Repeat Do a project
 ## Tips and Resources
-- Join a community and read / ask question
+- Join a community and read/ask questions
   - AWS subreddit
   - AWS version of Stack Overflow
 - AWS Newsletters for staying current
