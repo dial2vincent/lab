@@ -1,4 +1,4 @@
-# Name of the tool here
+# awscli
 
 ## Installation
 ~~~
