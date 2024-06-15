@@ -1,13 +1,17 @@
 # awscli
 
 ## Installation
+- RHEL
 ~~~
-sample
-code
-here
+yum install awscli -y
+aws --version  
 ~~~
-## Configuration
-
+- Ubuntu
+~~~
+sudo apt install awscli
+aws --version
+~~~
+## Configuration~~~
 ## Tutorial
 
 ## Demo
