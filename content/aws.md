@@ -7,11 +7,22 @@ yum install awscli -y
 aws --version  
 ~~~
 - Ubuntu
+To install the latest version of AWS CLI in Ubuntu, first, you'd have to install prerequisites using the following:
 ~~~
-sudo apt install awscli
+sudo apt install curl unzip
+curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
+unzip awscliv2.zip
+sudo ./aws/install
 aws --version
 ~~~
-## Configuration~~~
+## Configuration
+- config: Contains all the information related to the configuration you made such as default region and type of default output.
+- credentials: Contains access key and secret key as plain text.
+~~~
+aws configure
+ls $HOME/.aws
+aws ec2 describe-instances
+~~~
 ## Tutorial
 
 ## Demo
