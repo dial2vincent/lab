@@ -17,6 +17,7 @@ aws --version
 ~~~
 ## Configuration
 - config: Contains all the information related to the configuration you made such as default region and type of default output.
+  `aws configure` You must run the command to create a .aws directory and configuration files.
 - credentials: Contains access key and secret key as plain text.
 ~~~
 aws configure
