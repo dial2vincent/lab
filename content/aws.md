@@ -29,7 +29,15 @@ aws ec2 describe-instances
 ## Demo
 
 ## Use case
+- These snapshots can create new volumes or restore your instance and automate this process using AWS CLI:
+~~~
+# Create snapshot for /dev/sda1
+aws ec2 create-snapshot --volume-id <volume-id-of-dev-sda1> --description "Snapshot of root volume /dev/sda1"
 
+# Create snapshot for /dev/sdb
+aws ec2 create-snapshot --volume-id <volume-id-of-dev-sdb> --description "Snapshot of /dev/sdb"
+
+~~~
 
 # AWS Knowledge
 Understand the basic concept of the AWS service
