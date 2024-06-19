@@ -84,7 +84,7 @@ Completed to add installation on the Ubuntu
 - Location: /etc/puppetlabs/code/environments/production/manifests/site.pp
 1. Create Manifests site.pp
 ~~~
-node 'puppetmaster, puppetclient1, puppetclient2' {  # Replace 'agent-node-fqdn' with your Puppet agent's fully qualified domain name
+node 'puppetmaster', 'puppetclient1', 'puppetclient2' {  # Replace 'agent-node-fqdn' with your Puppet agent's fully qualified domain name
   class { 'ntp':
     servers => ['0.pool.ntp.org', '1.pool.ntp.org'],
   }
