@@ -1,6 +1,6 @@
 
-# What is  My Lab
-> My lab is to experiment and learn—critical tasks for pursuing cloud computing, Linux, learning new automation tools for setting up the cloud environment, improving DevOps/DevSecOps/DevAiOps work skills, or experimenting with cloud services.
+# What is the Lab
+> The Lab is to experiment and learn—critical tasks for pursuing cloud computing, Linux, learning new automation tools for setting up the cloud environment, improving OpsAI and DevOps/DevSecOps work skills, or experimenting with cloud services.
 
 ![Tools on WSL](wsl.PNG)
 
