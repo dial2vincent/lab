@@ -108,3 +108,24 @@ touch .gitignore        # Open .gitIgnore file add file name or folder name   li
 저장소를 변경할 경우 :
 `git remote set-url origin <저장소위치.git>`
 
+저장소가 아직 안만들어져 있는 경우:
+~~~
+# Navigate to your project directory
+cd /path/to/your/project
+
+# Initialize the local repository if not already done
+git init
+
+# Add all files to the repository
+git add .
+
+# Commit the files
+git commit -m "Initial commit"
+
+# Add the new GitHub repository as a remote
+git remote add origin https://github.com/your-username/your-repository.git
+
+# Push the code to the new repository
+git push -u origin master
+
+~~~
